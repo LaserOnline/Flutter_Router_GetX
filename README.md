@@ -1,5 +1,5 @@
 
-## Router Getx Code Example
+## Router GetX Code Example
 
 main.dart
 
